@@ -1,0 +1,21 @@
+h1,
+h2,
+h3,
+h4 {
+  font-weight: 600;
+}
+.container {
+  max-width: 50%;
+}
+.details {
+  font-size: 20px;
+  opacity: 0.5;
+}
+.weather {
+  font-size: 20px;
+  display: block;
+  font-weight: 500;
+}
+.codeG {
+  text-align: center;
+}
